@@ -21,8 +21,8 @@ These guides are based on the swagger documentation of each API and includes gen
 ## Learn how to:
 
 * [Import a collection ](import-a-postman-collection.md)
-* Import cURL 
-* Generate oauth tokens 
+* [Import cURL](import-a-collection-using-curl.md) 
+* [Generate oauth tokens ](generate-oauth-token.md)
 * Validate oauth tokens 
 * Send a SMS 
 * Send an email 

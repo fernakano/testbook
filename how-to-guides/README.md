@@ -6,10 +6,10 @@ description: >-
 
 # How to guides
 
-These guides are based on the swagger documentation of each API and includes general information, steps and screenshots.  
+These guides are based on the swagger documentation of each API and includes general information, steps and screenshots.
 
 {% hint style="info" %}
-**Note:** the examples in these guides are using postman to test each API but they can be modified to include versions using another tool or language. 
+**Note:** the examples in these guides are using postman to test each API but they can be modified to include versions using another tool or language.
 {% endhint %}
 
 ## Objectives
@@ -20,9 +20,7 @@ These guides are based on the swagger documentation of each API and includes gen
 
 ## Learn how to:
 
-
-
-* [Import a collection ](how-to-import.md)
+* [Import a collection ](how-to-import-a-postman-collection.md)
 * Import cURL 
 * Generate oauth tokens 
 * Validate oauth tokens 

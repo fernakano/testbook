@@ -1,8 +1,8 @@
 ---
-description: Step by step guide to be able to import a collection into postman
+description: Learn how to importan a collection into postman
 ---
 
-# How to import a postman collection
+# Import a postman collection
 
 ## About Postman
 
@@ -11,7 +11,7 @@ Postman is a tool widely used by developers to work with APIs in a faster and ea
 A postman collection is a format used to describe APIs. It includes the organization of the APIs \(if they are in folders\), the API definition, parameters used to build the request, response and examples \(if added\). It can also include tests and documentation. This collection can be exported/imported from postman as a JSON file.
 
 {% hint style="info" %}
- For more information regarding postman visit the official documentation site [https://www.getpostman.com/docs/v6/](https://www.getpostman.com/docs/v6/)
+For more information regarding postman visit the official documentation site [https://www.getpostman.com/docs/v6/](https://www.getpostman.com/docs/v6/)
 
 For more information regarding postman collection visit the collection section in the official documentation site [https://www.getpostman.com/collection](https://www.getpostman.com/collection)
 {% endhint %}
@@ -34,14 +34,14 @@ To import the collection, you should:
 * Open postman app
 * Click on "import" button
 
-![Location of the import button in postman app](.gitbook/assets/postman-import-collection%20%281%29.png)
+![Location of the import button in postman app](../.gitbook/assets/postman-import-collection%20%281%29.png)
 
 * On the Import popup, select "Import File" and click on "Choose files" 
 
-![Import screen, look for the file to import](.gitbook/assets/postman-import-file.png)
+![Import screen, look for the file to import](../.gitbook/assets/postman-import-file.png)
 
 * Look for the collection \(JSON file\) and click "Open" 
 * The new collection should appear at the left side as "Live Link APIs – Documentation Site" 
 
-![Live Link collection already imported](.gitbook/assets/postman-imported-collection%20%281%29.png)
+![Live Link collection already imported](../.gitbook/assets/postman-imported-collection%20%281%29.png)
 

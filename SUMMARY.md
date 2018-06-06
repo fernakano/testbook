@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Live Link 365](README.md)
-* [How to guides](how-to-guides.md)
-  * [How to import a postman collection](how-to-import.md)
+* [How to guides](how-to-guides/README.md)
+  * [Import a postman collection](how-to-guides/how-to-import-a-postman-collection.md)
+* [Import a collection using cURL](import-a-collection-using-curl.md)
 

@@ -7,3 +7,4 @@ SAP Live Link 365 provides SMS, email, and Two-Factor Authentication APIs as wel
 ## Get Started with SAP Live Link 365
 
 Quickly and easily add interconnect functionality to your apps and build solutions with secure, reliable last-mile connections anywhere in the world – reaching everyone, everything, everywhere.
+

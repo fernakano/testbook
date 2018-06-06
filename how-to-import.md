@@ -11,9 +11,9 @@ Postman is a tool widely used by developers to work with APIs in a faster and ea
 A postman collection is a format used to describe APIs. It includes the organization of the APIs \(if they are in folders\), the API definition, parameters used to build the request, response and examples \(if added\). It can also include tests and documentation. This collection can be exported/imported from postman as a JSON file.
 
 {% hint style="info" %}
- For more information regarding postman visit the official documentation site https://www.getpostman.com/docs/v6/
+ For more information regarding postman visit the official documentation site [https://www.getpostman.com/docs/v6/](https://www.getpostman.com/docs/v6/)
 
-For more information regarding postman collection visit the collection section in the official documentation site https://www.getpostman.com/collection
+For more information regarding postman collection visit the collection section in the official documentation site [https://www.getpostman.com/collection](https://www.getpostman.com/collection)
 {% endhint %}
 
 ## Download the Live Link postman collection

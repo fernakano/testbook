@@ -6,4 +6,5 @@
   * [Import a postman collection](how-to-guides/import-a-postman-collection.md)
   * [Import a collection using cURL](how-to-guides/import-a-collection-using-curl.md)
   * [Generate oAuth token](how-to-guides/generate-oauth-token.md)
+* [Getting Started Guides](getting-started-guides.md)
 

@@ -21,13 +21,13 @@ Importing a cURL is like importing a collection, with some minor differences:
 * Open the postman app
 * Click on "import" button
 
-![Location of import button inside postman app](https://github.com/fernakano/testbook/tree/7176f97bc3bb8285f4069b294b023cf2c8898644/how-to-guides/.gitbook/assets/postman-import-collection.png)
+![](../.gitbook/assets/postman-import-collection%20%281%29.png)
 
 * On the Import popup, select "Paste raw text" and paste the cURL for sending a message. 
 
-![Example of cURL. You can replace the placeholders here if you want.](https://github.com/fernakano/testbook/tree/7176f97bc3bb8285f4069b294b023cf2c8898644/how-to-guides/.gitbook/assets/postman-import-curl.png)
+![](../.gitbook/assets/postman-import-curl%20%281%29.png)
 
 * After imported, the curl will appear in a new tab and most of the mandatory parameters will be already filled in. 
 
-![Imported collection](https://github.com/fernakano/testbook/tree/7176f97bc3bb8285f4069b294b023cf2c8898644/how-to-guides/.gitbook/assets/postman-imported-curl.png)
+![](../.gitbook/assets/postman-imported-curl.png)
 

@@ -34,7 +34,7 @@ To import the collection, you should:
 * Open postman app
 * Click on "import" button
 
-![Location of the import button in postman app](../.gitbook/assets/postman-import-collection%20%281%29.png)
+![Location of the import button in postman app](../.gitbook/assets/postman-import-collection%20%282%29.png)
 
 * On the Import popup, select "Import File" and click on "Choose files" 
 

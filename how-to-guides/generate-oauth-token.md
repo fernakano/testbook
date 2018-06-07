@@ -1,7 +1,3 @@
----
-description: Learn how to generate an oAuth token to start using Live Link channels
----
-
 # Generate oAuth token
 
 ## About oAuth

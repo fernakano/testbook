@@ -1,7 +1,3 @@
----
-description: Understand a basic concept of what SAP Live Link 365 is
----
-
 # What is SAP Live Link 365?
 
 ## Objectives

@@ -1,7 +1,3 @@
----
-description: Learn how to quickly start using SAP Live Link 365.
----
-
 # Getting Started Guides
 
 In this section, you will find quick-guides that will help you understand what SAP Live Link 365 is and what it does.
